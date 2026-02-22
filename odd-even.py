@@ -8,5 +8,8 @@ else:
    print("{0} is an Odd Number".format(num))
 
 print("saleem")
+print("Dil")
+print("Ayaan")
+
 
    
